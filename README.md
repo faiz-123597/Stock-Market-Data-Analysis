@@ -83,6 +83,9 @@ The dataset contains stock market records including:
 - Volume
 - Return %
 - Volatility
+-  Power BI Dashboard
+
+![Stock Market Dashboard](stock_market_dashboard.png)
 
 ## 🚀 Project Workflow
 
