@@ -87,6 +87,35 @@ The dataset contains stock market records including:
 
 ![Stock Market Dashboard](stock_market_dashboard.png)
 
+## 📈 Key Insights
+
+- Analyzed 5,200 stock market records across 20 companies.
+- Analyzed daily stock price changes and returns.
+- Compared trading volume across companies.
+- Calculated stock market volatility.
+- Analyzed monthly return trends.
+- Calculated and visualized a 7-day moving average.
+- Built an interactive Power BI dashboard for data visualization.
+
+## 🛠️ Project Workflow
+
+1. Collected and prepared stock market data.
+2. Used SQL for data analysis and querying.
+3. Used Python and Pandas for data analysis.
+4. Built visualizations and calculated key metrics.
+5. Created an interactive Power BI dashboard.
+6. Documented the complete project on GitHub.
+
+## 👨‍💻 Skills Demonstrated
+
+- SQL
+- Python
+- Pandas
+- Power BI
+- Data Analysis
+- Data Visualization
+- Dashboard Development
+
 ## 🚀 Project Workflow
 
  # Text
